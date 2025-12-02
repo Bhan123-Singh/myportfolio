@@ -52,8 +52,8 @@ export default function About() {
 
             <div className="flex flex-wrap gap-3">
               {[
-                "HTML", "CSS", "JavaScript", "React", "Node.js", "Express",
-                "MongoDB", "Tailwind CSS", "Git", "GitHub", "Postman","Axios", "VS Code"
+                 "React", "Node.js", "Express",
+                 , "Git", "GitHub", "Postman","Axios", "VsCode"
               ].map((tool) => (
                 <span
                   key={tool}
