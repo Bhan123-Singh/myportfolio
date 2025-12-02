@@ -2,7 +2,7 @@ export default function Skills() {
   const skills = [
     "HTML","CSS","JavaScript","React",
     "Node","Express","MongoDB","SQL",
-    "Tailwind","Java","C Language", " Advanced Excel " ,"MS-WORD " ,"MS-POWER POINT"
+    "Tailwind","Java","C Language", " Advanced Excel " ,"Ms-Word " ,"Ms-PowerPoint"
   ];
 
   return (
