@@ -44,7 +44,7 @@ export default function Hero() {
                      bg-gradient-to-r from-[#6EE7FF] to-[#C084FC]
                      hover:opacity-90 hover:scale-105 transition-all"
         >
-          View Projects 🚀
+          View Projects 
         </a>
 
         <a

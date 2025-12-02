@@ -31,7 +31,7 @@ export default function Achievements() {
             className="bg-gray-800/70 backdrop-blur p-6 rounded-xl shadow 
                 hover:scale-105 hover:bg-cyan-500/20 transition-all"
           >
-            <h4 className="text-xl font-semibold mb-2">✈️ Project</h4>
+            <h4 className="text-xl font-semibold mb-2"> 📚 Project</h4>
 
             <p className="mb-3">Fullstack Learning Management System</p>
 
