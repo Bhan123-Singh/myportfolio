@@ -49,7 +49,7 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://www.instagram.com/bhan5538?utm_source=qr&igsh=NjJ2cXhlaHcwOXM4"
+            href=""
             target="_blank"
             className="group p-3 rounded-full bg-white/5 
                        hover:bg-pink-500/20
