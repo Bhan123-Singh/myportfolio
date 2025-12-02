@@ -93,7 +93,7 @@ export default function Hero() {
     {/* 🖼 Profile Image */}
     <div className="flex justify-center order-1 md:order-2">
       <img
-        src="./bhan.jpg"
+        src="./bhan2.jpg"
         alt="profile"
         className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover
                    border-4 border-[#ffffff15] shadow-[0_0_40px_#000]

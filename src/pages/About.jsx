@@ -13,7 +13,7 @@ export default function About() {
         {/* Profile Picture Section */}
         <div className="w-60 h-60 md:w-72 md:h-72 rounded-2xl overflow-hidden shadow-[0_0_40px_rgba(0,0,0,0.4)] border border-gray-700">
           <img
-            src="./bhan.jpg"
+            src="./bhan2.jpg"
             alt="Profile"
             className="w-full h-full object-cover"
           />
