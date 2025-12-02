@@ -50,7 +50,7 @@ export default function Achievements() {
                           hover:scale-105 hover:bg-cyan-500/20 transition-all"
           >
             <h4 className="text-xl font-semibold mb-2">💊 College Project</h4>
-            <p></p>Hospilat Management website
+            <p></p>Hospital Management website
           </div>
 
          

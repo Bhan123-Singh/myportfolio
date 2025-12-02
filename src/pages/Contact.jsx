@@ -62,6 +62,6 @@ export default function Contact() {
           </div>
         </form>
       </div>
-    </section>
+    </section> 
   );
 }
