@@ -57,7 +57,7 @@ export default function Hero() {
         </a>
 
         <a
-          href="/BHANRESUM.pdf"
+          href="/BHANRSUMEUPDATED1.pdf"
           className="px-6 py-3 rounded-lg font-semibold
                      bg-[#f3c5ff] text-[#030048]
                      hover:bg-[#e7b6f3] hover:scale-105 transition-all"
